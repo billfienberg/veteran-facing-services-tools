@@ -1,0 +1,4 @@
+root: ./packages/documentation
+
+structure:  
+    readme: ./packages/documentation/README.md
