@@ -5,4 +5,5 @@
 ## Tutorials
 
 * [Basic](basic.md)
+* [Intermediate](intermediate.md)
 
