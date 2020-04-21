@@ -6,4 +6,5 @@
 
 * [Basic](basic.md)
 * [Intermediate](intermediate.md)
+* [Advanced](advanced.md)
 
