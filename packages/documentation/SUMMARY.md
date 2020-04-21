@@ -4,3 +4,5 @@
 
 ## Tutorials
 
+* [Basic](basic.md)
+
